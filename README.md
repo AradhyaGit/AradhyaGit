@@ -15,7 +15,7 @@
 
 ---
 ### 🤝 Connect with me:
-[LinkedIn] | [Twitter/X]
+[LinkedIn] www.linkedin.com/in/aradhya-sanyal | [Twitter/X]
 
 ![Your GitHub Stats](https://vercel.app)
 
