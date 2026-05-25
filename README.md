@@ -16,3 +16,7 @@
 ---
 ### 🤝 Connect with me:
 [LinkedIn] | [Twitter/X]
+
+![Your GitHub Stats](https://vercel.app)
+
+![Top Langs](https://vercel.app)
