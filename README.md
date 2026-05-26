@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 🎓 Incoming B.Tech Undergraduate (Class of 2030)
-- 💻 Currently mastering **C++ / Java** and learning Git workflow basics.
+- 💻 Currently mastering **C++ / Python** and learning Git workflow basics.
 - 🎯 My goal for this year is to build a strong foundation for open-source contributions and GSoC 2027.
 
 ### 🛠️ Tech Stack & Tools (Learning)
@@ -10,7 +10,7 @@
 - **Tools:** Git, GitHub, VS Code
 
 ### 📈 My Coding Journey
-
+- Learnt basic Python in school
 - Learning Python through practise problems now
 
 ---
