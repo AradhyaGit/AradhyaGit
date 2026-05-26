@@ -11,7 +11,7 @@
 
 ### 📈 My Coding Journey
 
-- ⚡ Fun fact: I set up this profile portfolio *before* my college classes even started.
+- Learning Python through practise problems now
 
 ---
 ### 🤝 Connect with me:
