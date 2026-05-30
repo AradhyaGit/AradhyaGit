@@ -11,11 +11,11 @@
 
 ### 📈 My Coding Journey
 - Learnt basic Python in school
-- Learning Python through practise problems now
+- Learning Python through practice problems now, progress can be seen on the problems repository
 
 ---
 ### 🤝 Connect with me:
-[LinkedIn] www.linkedin.com/in/aradhya-sanyal | [Twitter/X]
+[LinkedIn] www.linkedin.com/in/aradhya-sanyal | 
 
 ![Your GitHub Stats](https://vercel.app)
 
