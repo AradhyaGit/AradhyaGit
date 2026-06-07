@@ -6,7 +6,7 @@
 - 🎯 My goal for this year is to build a strong foundation for open-source contributions and GSoC 2027.
 
 ### 🛠️ Tech Stack & Tools (Learning)
-- **Languages:** C, Python, HTML, CSS
+- **Languages:** C, Python
 - **Tools:** Git, GitHub, VS Code
 
 ### 📈 My Coding Journey
