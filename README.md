@@ -7,7 +7,7 @@
 
 ### 🛠️ Tech Stack & Tools (Learning)
 - **Languages:** C, Python
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** Git, GitHub, VS Code, CodeBlocks
 
 ### 📈 My Coding Journey
 - Learnt basic Python in school
